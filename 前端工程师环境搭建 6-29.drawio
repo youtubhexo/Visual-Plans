@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2024-06-29T22:14:47.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kWr-mTxwg4MXQG0jlt2V" version="24.6.4" type="github">
+  <diagram name="第 1 页" id="nAw6x5TdbmoEaB_O09le">
+    <mxGraphModel dx="1034" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HeDw_MXWGpqRy7UIOLny-1" target="HeDw_MXWGpqRy7UIOLny-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-1" value="Node" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-2" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HeDw_MXWGpqRy7UIOLny-4" target="HeDw_MXWGpqRy7UIOLny-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-4" value="nvm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-5" value="PC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-6" value="node16" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-7" value="node18" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.579;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="HeDw_MXWGpqRy7UIOLny-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="300" as="sourcePoint" />
+            <mxPoint x="390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="HeDw_MXWGpqRy7UIOLny-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="300" as="sourcePoint" />
+            <mxPoint x="390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-11" value="MacOS&lt;br&gt;Linux" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-12" value="Windows" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-13" value="cnpm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-14" value="yarn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HeDw_MXWGpqRy7UIOLny-15" target="HeDw_MXWGpqRy7UIOLny-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-15" value="pnpm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HeDw_MXWGpqRy7UIOLny-16" value="将仓库地址设置成淘宝源&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;p style=&quot;margin:0in;font-family:Calibri;font-size:11.0pt&quot;&gt;PS&lt;br&gt;D:\zhangwangyancom\code\desperado-cmd&amp;gt; npm config get registry&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin:0in;font-family:Calibri;font-size:11.0pt&quot;&gt;&lt;a href=&quot;https://registry.npmmirror.com&quot;&gt;https://registry.npmmirror.com&lt;/a&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p style=&quot;margin:0in;font-family:Calibri;font-size:11.0pt&quot;&gt;PS&lt;br&gt;D:\zhangwangyancom\code\desperado-cmd&amp;gt; npm set registry &lt;a href=&quot;https://registry.npmjs.org/&quot;&gt;https://registry.npmjs.org/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="400" width="490" height="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
